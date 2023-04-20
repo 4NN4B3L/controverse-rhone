@@ -246,7 +246,7 @@ padding: 0px 0 0 0;
 }
 
 #mainpanel .col {
-width: 260px; /* 240px */
+width: 250px; /* 240px */
 padding: 18px 18px 18px 18px;
 margin: 0;
 
@@ -254,6 +254,7 @@ margin: 0;
 
 #title {
 font-weight: bold;
+font-size: 125%;
 }
 
 #titletext {
