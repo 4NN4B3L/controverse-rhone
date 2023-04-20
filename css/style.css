@@ -254,11 +254,11 @@ margin: 0;
 
 #title {
 font-weight: bold;
+font-size: 24px !important;
 }
 
 #titletext {
 padding: 6px 0 10px 0;
-font-size: 24px;
 }
 
 #info {
