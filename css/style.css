@@ -60,7 +60,7 @@ canvas#sigma_bg_1 {
     bottom:0;
     top:0;
     right:0;
-	width: 33%; /* 240px */
+	width: 28%; /* 240px */
 	background-color: #fff;
 	margin: 0;
 	word-wrap: break-word;
@@ -254,11 +254,11 @@ margin: 0;
 
 #title {
 font-weight: bold;
-font-size: 125%;
 }
 
 #titletext {
 padding: 6px 0 10px 0;
+font-size: 24px;
 }
 
 #info {
