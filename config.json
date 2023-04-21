@@ -8,8 +8,8 @@
     "text": "annabelroux.xyz"
   },
   "text": {
-    "more": "Version centrée sur les acteurs — personnes et organisations — et les actions menées.",
-    "intro": "Qui sont les individus, les collectifs, les organisations qui entretiennent ou taisent les débats sur la personnalité juridique du fleuve Rhône. Quels sont les arguments en présence, en quels lieux ? Tentative de cartographie raisonnée.",
+    "more": "Au départ, l'Appel du Rhône, Frédéric Pitaval, Notre Affaire à Tous, Valérie Cabanes, Id-eau, toutes et tous les signataires, puis l'Assemblée Populaire du Rhône…",
+    "intro": "Qui sont les individus, les collectifs, les organisations qui entretiennent ou taisent les débats sur la personnalité juridique du fleuve Rhône. Quels sont les arguments et les intérêts en présence, en quels lieux, au sujet de quelles entités ? Quels territoires de valeurs se dessinent ? Tentative de cartographie raisonnée.",
     "title": "Le Rhône, objet ou sujet de droit — Les Acteurs de la Controverse"
   },
   "legend": {
@@ -37,13 +37,13 @@
       "defaultLabelHoverColor": "#fff",
       "fontStyle": "bold",
       "hoverFontStyle": "bold",
-      "defaultLabelSize": 14
+      "defaultLabelSize": 16
     },
     "graphProperties": {
       "maxEdgeSize": 0.5,
       "minEdgeSize": 0.2,
       "minNodeSize": 1,
-      "maxNodeSize": 7
+      "maxNodeSize": 10
     },
     "mouseProperties": {
       "maxRatio": 20,
