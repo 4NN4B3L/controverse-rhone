@@ -9,8 +9,8 @@
   },
   "text": {
     "more": "Au départ, l'Appel du Rhône, Frédéric Pitaval, Notre Affaire à Tous, Valérie Cabanes, Id-eau, toutes et tous les signataires, puis l'Assemblée Populaire du Rhône…",
-    "intro": "Qui sont les individus, les collectifs, les organisations qui entretiennent ou taisent les débats sur la personnalité juridique du fleuve Rhône. Quels sont les arguments et les intérêts en présence, en quels lieux, au sujet de quelles entités ? Quels territoires de valeurs se dessinent ? Tentative de cartographie raisonnée.",
-    "title": "Le Rhône, objet ou sujet de droit — Les Acteurs de la Controverse"
+    "intro": "Qui sont les individus, les collectifs, les organisations qui entretiennent ou taisent les débats sur la personnalité juridique du fleuve Rhône. Quels sont les arguments et les intérêts en présence, en quels lieux, au sujet de quelles entités ? Quels territoires de valeurs se dessinent ? Tentative de cartographie raisonnée.<br><br><em>Version intermédiaire — Acteurs seuls</em>",
+    "title": "Le Rhône, Objet ou Sujet de droit — Les Acteurs de la Controverse"
   },
   "legend": {
     "edgeLabel": "Relations",
@@ -19,7 +19,7 @@
   },
   "features": {
     "search": true,
-    "groupSelectorAttribute": "Type",
+    "groupSelectorAttribute": "Modularity Class",
     "hoverBehavior": "dim"
   },
   "informationPanel": {
@@ -33,7 +33,7 @@
       "defaultLabelBGColor": "#ddd",
       "activeFontStyle": "bold",
       "defaultLabelColor": "#000",
-      "labelThreshold": 10,
+      "labelThreshold": 4,
       "defaultLabelHoverColor": "#fff",
       "fontStyle": "bold",
       "hoverFontStyle": "bold",
